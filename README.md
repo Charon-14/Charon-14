@@ -10,14 +10,31 @@ I can do these programming languages:
 - Fortran.
 - C language. In self-defense I understand C++.
 - Python.
+- JAVA In self-defense mode.
+
+I can do these visual platforms:
+- QLIK Sense and Server
+- KNIME client
+- Python PyGWalker
+- Python Jupyter
 
 From my managerial role but I often use the <a href="https://www.knime.com/" class="element-KNIME">Knime environment</a> for prototyping or ETL processing.
 
 ## 👀 I’m interested in ...
+- Parallel programming.
+- Visualization.
+- Data governance.
+- Knowledge management and Data lineage.
 
 
 ## 🌱 I’m currently learning ...
+- SQL for processing of data in databases. Primarly for Postgre and Clickhouse.
+- Python parallel operation.
+- Thinking by knowledge principles for Data governance and data management.
+- JULIA language for parallelization of special use-cases.
 
+
+<!---
 I have taught myself many of the tools listed below over time. I also learned some programming languages and libraries during my academic career.
 
 - 👋 Hi, I’m @Charon-14
@@ -28,7 +45,6 @@ I have taught myself many of the tools listed below over time. I also learned so
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
 Charon-14/Charon-14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
