@@ -9,6 +9,7 @@ I can do these programming languages:
 - Assembler for processors Zilog and Intel family. In self-defense I understand ARM assemler. 😄 
 - Fortran.
 - C language. In self-defense I understand C++.
+- PERL.
 - Python.
 - JAVA In self-defense mode.
 
@@ -26,13 +27,17 @@ From my managerial role but I often use the <a href="https://www.knime.com/" cla
 - Data governance.
 - Knowledge management and Data lineage.
 
-
 ## 🌱 I’m currently learning ...
 - SQL for processing of data in databases. Primarly for Postgre and Clickhouse.
 - Python parallel operation.
 - Thinking by knowledge principles for Data governance and data management.
 - JULIA language for parallelization of special use-cases.
 
+## Little statistics
+Small visual report and statistics about projects on GitHub.
+
+<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api?username=charon-14&include_all_commits=true&custom_title=GitHub%20stats&hide=contribs" />
+<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charon-14&layout=donut&custom_title=The%20most%20used%20languages%20from%20me" />
 
 <!---
 I have taught myself many of the tools listed below over time. I also learned some programming languages and libraries during my academic career.
