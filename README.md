@@ -3,9 +3,10 @@
 ## Repository of Informatics Centre
 <a href="https://ci.vse.cz/english/" class="element-informatics_centre">Informatics Centre</a> is workplace for educational and creative activities or for the provision of information services or technology transfer of the Prague University of Economics and Business.
 This repository is created and maintenanced for sharing of code with our students, partners or public. 
+We are team for operate of computing services, data network and storage infrastructure.
 
 ## Who am I?
-I am administrator of this repository.
+My name is Karel Simecek and I am administrator of this repository.
 I'm a <b>Cyber Security Manager</b> and <b>Head of Data Analytics and Reporting Section</b> at <a href="https://www.vse.cz/english/" class="element-university">Prague university of economics and business</a> from Czech republic. I am interested in computer and data science. But for me, programming is cryptocoding process from my thinks to algorithms steps in limits language syntax. I am not software developer. I feel better in the position of data science. I process data from the area of ​​Cyber ​​Security, Science, Education and Quality Assurance of our university.
 
 ## Skills of Informatics Centre
@@ -42,8 +43,8 @@ Notice: From my managerial role I often use the <a href="https://www.knime.com/"
 ## Little statistics about repository
 Small visual report and statistics about our repository projects on GitHub.
 
-<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api?username=charon-14&include_all_commits=true&custom_title=GitHub%20stats&hide=contribs" />
-<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charon-14&layout=donut&custom_title=The%20most%20used%20languages%20from%20me" />
+<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api?username=charon-14&include_all_commits=true&custom_title=GitHub%20repository%20Informatics%20Centre%20stats&hide=contribs" />
+<img align="center" style="padding: 2.5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charon-14&layout=donut&custom_title=The%20most%20used%20languages%20from%20us" />
 
 <!---
 I have taught myself many of the tools listed below over time. I also learned some programming languages and libraries during my academic career.
