@@ -1,7 +1,7 @@
 <h1 align="center">Hello everybody 👋, this repository Prague university of economics and business - Informatics Centre</h1>
 
 ## Repository of Informatics Centre
-<a href="https://ci.vse.cz/english/" class="element-informatics_centre">Informatics Centre</a> is workplace for educational and creative activities or for the provision of information services or technology transfer of the Prague University of Economics and Business.
+<a href="https://ci.vse.cz/english/" class="element-informatics_centre">Informatics Centre</a> is workplace for educational and creative activities or for the provision of information services or technology transfer of the <a href="https://www.vse.cz/english/" class="element-university">Prague University of Economics and Business</a>.
 This repository is created and maintenanced for sharing of code with our students, partners or public. 
 We are team for operate of computing services, data network and storage infrastructure.
 
